@@ -98,7 +98,7 @@ export function SchoolDetailModal({
                         : '미집계'}
                     </p>
                     <p className="text-sm text-red-500">
-                      🇨🇦 캐나다{' '}
+                      🍁 캐나다{' '}
                       {school.canadaRanking > 0
                         ? `${school.canadaRanking}위`
                         : '미집계'}
